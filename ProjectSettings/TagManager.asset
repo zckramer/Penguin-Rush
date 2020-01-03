@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MajorObstacle
+  - MinorObstacle
+  - SpeedUp
+  - Basic Fish
+  - Target
+  - Inferno Fish
+  - Frozen Fish
+  - Crusty Fish
+  - DestructibleObstacle
+  - Slimey Fish
+  - DestructableObstacle
+  - Dirt
+  - IceCube
+  - HotRock
+  - SlickMud
+  - LeafRaft
+  - FlashFlood
+  - Fronut
+  - Earthquake
+  - FishFrenzy
+  - Pickup Fish
+  - PickUp
+  - Shockwave
+  - SuckerAura
+  - Melee Area
+  - Ebullet
+  - Superfish
+  - B_Target
+  - Death
+  - Easy
+  - Medium
+  - Hard
+  - Enemy
+  - Lazer
+  - Flamethrower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

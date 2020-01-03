@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: a72b1d4af6cc6e548afe4be5447219e9
+  - enabled: 1
+    path: Assets/Scenes/Team Penguin Splash.unity
+    guid: 573dde5eba94da24c93b1de050b92896
+  - enabled: 1
+    path: Assets/Scenes/PenguinSplash.unity
+    guid: 16ba9ab913fb2d4449f00a1794a8a40e
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: a72b1d4af6cc6e548afe4be5447219e9
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 85bd0a0d52bbafd4cbc456fe245c4f56
+  - enabled: 1
+    path: Assets/Scenes/Equipment menu.unity
+    guid: e74686560d145124fa6af8f7165811a1
+  - enabled: 1
+    path: Assets/Scenes/Options Menu.unity
+    guid: 90bfa89342335d0408e6c3b1db81395a
+  - enabled: 1
+    path: Assets/Scenes/Help Menu.unity
+    guid: 9b8d04a99ec82c44cb395a5ec04e8964
+  - enabled: 1
+    path: Assets/Scenes/Help_2.unity
+    guid: 2026c561b15ebf2408bcba0698e6afd0
+  - enabled: 1
+    path: Assets/Scenes/Help_3.unity
+    guid: 9e0f07ba0cb479e49aad285a96402d44
+  - enabled: 1
+    path: Assets/Scenes/Help_4.unity
+    guid: 367ae2c2e0315c84ebaab992ac4615f1
+  - enabled: 1
+    path: Assets/Scenes/Help_5.unity
+    guid: a982b361313662c4dae53ff0d58748c9
+  - enabled: 1
+    path: Assets/Scenes/Boss fight Testing.unity
+    guid: b22f0eb5230f5e049a7d45819422c518
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: eeb31d4d303c47f42a9fb43c1ed69dc4
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: f3cb6534268a2544f8cd0c3e31567d11
+  - enabled: 0
+    path: 
+    guid: 1c873dc92d1ce4dd489b00d6b84e5d6b
+  - enabled: 0
+    path: Assets/Scenes/Scene A.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Scene B.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/PenguinRush.unity
+    guid: 00000000000000000000000000000000
